@@ -24,7 +24,7 @@ A simple Node.js application for sending XRP payments on the XRP Ledger (XRPL) u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/xrpl-payment-sender.git
+git clone https://github.com/msayeeduddina/xrpl-payment-script.git
 cd xrpl-payment-sender
 ```
 
